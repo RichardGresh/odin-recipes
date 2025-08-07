@@ -1,0 +1,38 @@
+
+
+
+body {
+    background-color: lightblue;
+
+}
+
+.primary{
+    color: yellow;
+    padding: 25px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+
+.links{
+    font-size: 16px;
+    margin:0 auto;
+    text-align:center;
+    
+}
+.lasagna{
+    display:inline-block;
+    padding: 8px 16px;
+    margin: 8px;
+}
+.soup{
+    display:inline-block;
+    padding: 8px 16px;
+    margin: 8px;
+}
+.Chicken-Pita{
+    display:inline-block;
+    padding: 8px 16px;
+    margin: 8px;
+}
+
